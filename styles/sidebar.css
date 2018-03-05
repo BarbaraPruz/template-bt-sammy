@@ -1,0 +1,23 @@
+.sidebar {
+    list-style-type: none;
+    padding-left:0;  
+
+}
+.sidebar a {
+    background-color: white; 
+    font-size: 18px;
+    color: black;       
+} 
+.sidebar a:hover {
+    background-color: #cccccc;
+};
+.sidebar a:active {
+    outline: none !important;
+    box-shadow: none;
+    background-color: white;
+}
+.sidebar a:focus {
+    outline: none !important;
+    box-shadow: none;
+    background-color: white;
+}       

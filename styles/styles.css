@@ -1,0 +1,28 @@
+
+body {
+  padding-top: 125px;
+  opacity: 1;
+  transition: 200ms opacity;
+}
+
+#home-info {
+  margin-top: 40px;
+}
+@media only screen and (min-width : 768px) {
+  #home-section {
+    background-image: url(../images/world-map.png);
+    background-size:     contain;                    
+    background-repeat:   no-repeat;
+    background-position: center center;              
+  }
+}
+.bg-black {
+  background-color: black;
+}
+
+.navbar-brand {
+  height: 80px;
+}
+.no-display {
+  display:none;
+}
