@@ -1,0 +1,37 @@
+[
+    {
+        "name": "africa",
+        "image": "africa.jpg",
+        "info": "Africa!"
+    },
+    {
+        "name": "asia",
+        "image": "asia.jpeg",
+        "info": "Asia!"
+    },
+    {
+        "name": "antartica",
+        "image": "antartica.jpeg",
+        "info": "Antartica!"
+    },
+    {
+        "name": "australia",
+        "image": "australia.jpeg",
+        "info": "Australia! <p>Et oblique mnesarchum eam, dicta principes ea eos. Ullum constituto liberavisse pro eu, an usu alia aliquid. Aperiam labores laboramus ex mel. Eos affert fierent ne. Vim iudico tritani constituam ex, ad simul iudicabit mei. Per offendit salutandi cu, ut duo cl</p>"
+    },
+    {
+        "name": "europe",
+        "image": "europe.jpeg",
+        "info": "Europe!"
+    },
+    {
+        "name": "northAmerica",
+        "image": "northamerica.jpeg",
+        "info": "North America!"
+    },
+    {
+        "name": "southAmerica",
+        "image": "southamerica.jpeg",
+        "info": "South America!"
+    }
+]
